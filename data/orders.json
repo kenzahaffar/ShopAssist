@@ -1,0 +1,35 @@
+
+[
+    {
+        "order_id": "C1001",
+        "customer": "Ahmed",
+        "product": "Smartphone Samsung",
+        "status": "shipped",
+        "delivery_date": null,
+        "days_since_delivery": null
+    },
+    {
+        "order_id": "C1002",
+        "customer": "Sara",
+        "product": "Casque Bluetooth",
+        "status": "delivered",
+        "delivery_date": "2026-11-15",
+        "days_since_delivery": 8
+    },
+    {
+        "order_id": "C1003",
+        "customer": "Amine",
+        "product": "Clavier sans fil",
+        "status": "processing",
+        "delivery_date": null,
+        "days_since_delivery": null
+    },
+    {
+        "order_id": "C1004",
+        "customer": "Meriem",
+        "product": "Souris gaming",
+        "status": "delivered",
+        "delivery_date": "2026-10-20",
+        "days_since_delivery": 34
+    }
+]

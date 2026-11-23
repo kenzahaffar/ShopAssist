@@ -1,0 +1,14 @@
+[
+    {
+        "ticket_id": "T001",
+        "order_id": "C1001",
+        "reason": "retard de livraison",
+        "status": "open"
+    },
+    {
+        "ticket_id": "T002",
+        "order_id": "C1001",
+        "reason": "Retard de livraison",
+        "status": "open"
+    }
+]
